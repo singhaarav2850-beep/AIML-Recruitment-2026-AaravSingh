@@ -2,6 +2,7 @@
 
 ## 1. Candidate Details
 * **Name:** AARAV SINGH
+* **Register No.:** RA2511003010667
 * **Year:** 2nd Year/3rd Sem
 * **Branch/Degree:** B.Tech(CSE-Core)
 
